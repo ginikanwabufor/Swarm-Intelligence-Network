@@ -7,3 +7,5 @@ T
 $tests/swarm-agent-management.test.ts,3/8/388c814ea6ad74f20598841a091284d9a8e5fd38
 Q
 !contracts/problem-definition.clar,f/3/f304e9265b5ebc2ba91c5eb4d84136f42af9c092
+P
+ tests/problem-definition.test.ts,1/c/1c0aa251b3ac730e6ad0227651f551235fc0b397
