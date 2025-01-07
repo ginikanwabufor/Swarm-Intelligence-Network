@@ -11,3 +11,5 @@ P
  tests/problem-definition.test.ts,1/c/1c0aa251b3ac730e6ad0227651f551235fc0b397
 R
 "contracts/solution-evaluation.clar,0/0/00e47c43cd4363133126d73f426e35d62382d553
+Q
+!tests/solution-evaluation.test.ts,7/f/7fba56f074659877d89018028cf6b7615d20483b
