@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.problem-definition]
+path = 'contracts/problem-definition.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.swarm-agent-management]
 path = 'contracts/swarm-agent-management.clar'
 clarity_version = 2

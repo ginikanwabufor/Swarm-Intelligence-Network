@@ -5,3 +5,5 @@ U
 %contracts/swarm-agent-management.clar,5/1/5187ce53d507f8befe0a7858684132e63c146f00
 T
 $tests/swarm-agent-management.test.ts,3/8/388c814ea6ad74f20598841a091284d9a8e5fd38
+Q
+!contracts/problem-definition.clar,f/3/f304e9265b5ebc2ba91c5eb4d84136f42af9c092
