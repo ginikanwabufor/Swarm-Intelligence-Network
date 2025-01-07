@@ -9,3 +9,5 @@ Q
 !contracts/problem-definition.clar,f/3/f304e9265b5ebc2ba91c5eb4d84136f42af9c092
 P
  tests/problem-definition.test.ts,1/c/1c0aa251b3ac730e6ad0227651f551235fc0b397
+R
+"contracts/solution-evaluation.clar,0/0/00e47c43cd4363133126d73f426e35d62382d553
